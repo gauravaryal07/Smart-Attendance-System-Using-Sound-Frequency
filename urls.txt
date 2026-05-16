@@ -1,0 +1,11 @@
+#DOWNLOAD THE EXCEL SHEET FOR THE ATTENDANCE
+http://127.0.0.1:5000/export_attendance
+
+#CLEAR THE ATTENDANCE FOR ANOTHER DAY
+http://127.0.0.1:5000/clear_attendance
+
+#SETUP
+http://127.0.0.1:5000/setup
+
+#STATS
+http://127.0.0.1:5000/stats/101
